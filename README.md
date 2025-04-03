@@ -18,7 +18,7 @@ A deep dive into the job market for data professionals! Using **Python and Power
 
 ## Hotel Analytics Report
 
-![image](images/hotell.jpg)
+![image](images\hotel.jpg)
 
 **🏨 Hotel Booking & Customer Insights Dashboard**  
 Understanding customer behavior and operational performance is key to optimizing hotel management. This project started with **SQL**, where multiple datasets were merged, cleaned, and transformed to uncover deeper insights. The **Power BI** report provides a detailed view of reservations, guest preferences, and business performance—helping hotels make data-driven decisions.
@@ -107,6 +107,7 @@ Understanding employee work patterns is crucial for HR decision-making. This Pow
 
 
 
+
 ## 🔍 Additional Projects  
 These smaller projects focus on specific skills such as SQL analysis, data exploration, and visualizations:  
 - **[Employee Data Analysis](link-to-repo)** (SQL, Business Analytics)
@@ -117,7 +118,6 @@ These smaller projects focus on specific skills such as SQL analysis, data explo
 
 ## 📌 More Projects Coming Soon!  
 I am actively working on new projects, and this portfolio will keep evolving. Stay tuned for more exciting upates! 🚀
-
 
 
 
