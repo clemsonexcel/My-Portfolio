@@ -94,7 +94,7 @@ Explored retail performance using the classic **Superstore** dataset! This inter
 
 **Skills:** Excel, Data Visualization, Pivot Tables, Dashboards, Data Analysis, Business Intelligence
 
-🔗 [View Project](https://github.com/clemsonexcel/Dashboard-Projects/tree/main/Superstore%20Dashoard)  
+🔗 [View Project](https://github.com/clemsonexcel/Dashboard-Projects/tree/main/Superstore%20Dashboard)  
 
 
 ## Employee Presence Dashboard 
