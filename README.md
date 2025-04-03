@@ -64,7 +64,7 @@ Using mall customer data, I performed customer segmentation to identify key shop
 
 Developed a **machine learning model** to predict loan approval based on historical data. The project involved data cleaning, feature engineering, and model evaluation to assess the loan eligibility of applicants.
 
-🔗 [View Project](#)  
+🔗 [View Project](https://github.com/clemsonexcel/Loan-Prediction)  
 
 
 ## Movie Recommendation System
@@ -83,7 +83,7 @@ I Built an interactive **movie recommendation system** using **Python** in Jupyt
 
 This project uses **SQL** and **Power BI** to analyze employee absenteeism and health data, driving incentive programs and wellness initiatives. The dashboard helps HR track trends, optimize workforce planning, and support data-driven decision-making.
 
-🔗 [View Project](#)  
+🔗 [View Project](https://github.com/clemsonexcel/Dashboard-Projects/tree/main/Absenteeism%20%26%20Health%20Dashboard)  
 
 
 ## Superstore Sales & Profit Dashboard 
