@@ -9,7 +9,7 @@ Each project includes a brief description, key skills demonstrated, and links to
 
 ## Data Jobs Analysis  
 
-![image](images\job_market_analysis.png)
+![image](images/job_market_analysis.png)
 
 A deep dive into the job market for data professionals! Using **Python and Power BI**, I analyzed job postings to uncover trends in demand, salaries, required skills, and industry preferences.  This project provides valuable insights into the evolving data landscape and guidance for aspiring data professionals.
 
@@ -18,7 +18,7 @@ A deep dive into the job market for data professionals! Using **Python and Power
 
 ## Hotel Analytics Report
 
-![image](images\hotel.jpg)
+![image](images/hotel.jpg)
 
 **🏨 Hotel Booking & Customer Insights Dashboard**  
 Understanding customer behavior and operational performance is key to optimizing hotel management. This project started with **SQL**, where multiple datasets were merged, cleaned, and transformed to uncover deeper insights. The **Power BI** report provides a detailed view of reservations, guest preferences, and business performance—helping hotels make data-driven decisions.
@@ -60,7 +60,7 @@ Using mall customer data, I performed customer segmentation to identify key shop
 
 ## Loan Prediction Model
 
-![image](images\loan.jpg)
+![image](images/loan.jpg)
 
 Developed a **machine learning model** to predict loan approval based on historical data. The project involved data cleaning, feature engineering, and model evaluation to assess the loan eligibility of applicants.
 
@@ -79,7 +79,7 @@ I Built an interactive **movie recommendation system** using **Python** in Jupyt
 
 ### HR Absenteeism and Wellness Analysis
 
-![image](images\hr_absent.jpg)
+![image](images/hr_absent.jpg)
 
 This project uses **SQL** and **Power BI** to analyze employee absenteeism and health data, driving incentive programs and wellness initiatives. The dashboard helps HR track trends, optimize workforce planning, and support data-driven decision-making.
 
@@ -88,7 +88,7 @@ This project uses **SQL** and **Power BI** to analyze employee absenteeism and h
 
 ## Superstore Sales & Profit Dashboard 
 
-![image](images\superstore.jpg)
+![image](images/superstore.jpg)
 
 Explored retail performance using the classic **Superstore** dataset! This interactive dashboard visualizes key metrics like profit, sales by category, and revenue trends over the years. The analysis also examines state-wise contributions to sales, helping identify top-performing regions.
 
@@ -99,7 +99,7 @@ Explored retail performance using the classic **Superstore** dataset! This inter
 
 ## Employee Presence Dashboard 
 
-![image](images\presense.jpg)
+![image](images/presense.jpg)
 
 Understanding employee work patterns is crucial for HR decision-making. This Power BI dashboard analyzes a three-month employee attendance dataset, offering insights into work preferences, presence trends, and attendance patterns. By visualizing work-from-home rates, sick leaves, and office attendance, HR teams can make informed decisions for event planning and workforce management.  
 
