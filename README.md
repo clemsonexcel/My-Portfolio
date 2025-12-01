@@ -109,7 +109,7 @@ Understanding employee work patterns is crucial for HR decision-making. This Pow
 
 
 ## 🔍 Additional Projects  
-These smaller projects focus on specific skills such as SQL analysis, data exploration, and visualizations:  
+These projects focus on specific skills such as SQL analysis, data exploration, and visualizations:  
 - **[Employee Data Analysis](link-to-repo)** (SQL, Business Analytics)
 - **[Retail Sales Analysis](link-to-repo)** (SQL, Revenue Insights)  
 - **[IMDb Movie Data Exploration](link-to-repo)** (Python, Pandas, Visualization) 
