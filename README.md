@@ -28,6 +28,15 @@ Understanding customer behavior and operational performance is key to optimizing
 🔗 [View Project](https://github.com/clemsonexcel/Hotel-Reservation-)  
 
 
+## Internal Data Migration | Googlesheets -> PostgreSQL
+
+![image]()
+
+Migrated internal company data from Google Sheets to a hosted PostgreSQL database. Designed a normalized schema, implemented role-access control, and created views to support analysis while protecting core tables. 
+
+**Tools:** PostgreSQL (Supabase), SQL, ER moedeling
+
+🔗 [View Project](https:/project)  
 
 ## 🚴‍♂️ Bike Sales & Profit Dashboard | Power BI & SQL
 
