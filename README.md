@@ -16,6 +16,14 @@ A deep dive into the job market for data professionals! Using **Python and Power
 🔗 [View Project](https://github.com/clemsonexcel/Data-Jobs-Analysis) 
 
 
+## Internal Data Migration | Googlesheets -> PostgreSQL
+
+![image](images/migration.png)
+
+Migrated internal company data from Google Sheets to a hosted PostgreSQL database. Designed a normalized schema, implemented role-access control, and created views to support analysis while protecting core tables. 
+
+**Tools:** PostgreSQL (Supabase), SQL, ER modeling
+
 ## Hotel Analytics Report
 
 ![image](images/hotel.jpg)
@@ -28,13 +36,14 @@ Understanding customer behavior and operational performance is key to optimizing
 🔗 [View Project](https://github.com/clemsonexcel/Hotel-Reservation-)  
 
 
-## Internal Data Migration | Googlesheets -> PostgreSQL
 
-![image]()
+## End-to-End Retail Operations Database: Schema Design and SQL Implementation
 
-Migrated internal company data from Google Sheets to a hosted PostgreSQL database. Designed a normalized schema, implemented role-access control, and created views to support analysis while protecting core tables. 
+![image](images/db_design)
 
-**Tools:** PostgreSQL (Supabase), SQL, ER moedeling
+An OLTP focused database modelling and SQL implementation project addressing inventory, order fufillment, and customer data consistency.
+
+**Tools:** MSSQL, SQL, ER modeling
 
 🔗 [View Project](https:/project)  
 
