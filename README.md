@@ -22,7 +22,13 @@ A deep dive into the job market for data professionals! Using **Python and Power
 
 Migrated internal company data from Google Sheets to a hosted PostgreSQL database. Designed a normalized schema, implemented role-access control, and created views to support analysis while protecting core tables. 
 
+Google Sheets Data Migration Project
+
+A real world data migratio project focused on transfroming long term, messy Google Sheets data into a structured relational databse with proper relationships and data integrity.
+
 **Tools:** PostgreSQL (Supabase), SQL, ER modeling
+
+🔗 [View Project](https://github.com/clemsonexcel/sheets-to-database-migration)
 
 ## Hotel Analytics Report
 
