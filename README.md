@@ -45,7 +45,7 @@ An OLTP focused database modelling and SQL implementation project addressing inv
 
 **Tools:** MSSQL, SQL, ER modeling
 
-🔗 [View Project](https:/project)  
+🔗 [View Project](https://github.com/clemsonexcel/Retail-Database-Design)  
 
 ## 🚴‍♂️ Bike Sales & Profit Dashboard | Power BI & SQL
 
