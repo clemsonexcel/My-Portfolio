@@ -7,6 +7,12 @@ Welcome to my data portfolio! This repository showcases my data projects, demons
 
 Each project includes a brief description, key skills demonstrated, and links to relevant files or dashboards. 
 
+## Cloud Data Analytics: End-to-End Fintech Pipeline (GCP)
+
+Architected a cloud based analytics solution fpr the TheLook Fintech to monitor a $3M+ loan portfolio. Engineered an automated ETL pipeline in BigQuery by.. 
+
+**Tools:** Google BigQuery, Looekr Enterprise, SQL, Google Cloud Storage
+
 ## Data Jobs Analysis  
 
 ![image](images/job_market_analysis.png)
