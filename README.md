@@ -9,9 +9,14 @@ Each project includes a brief description, key skills demonstrated, and links to
 
 ## Cloud Data Analytics: End-to-End Fintech Pipeline (GCP)
 
-Architected a cloud based analytics solution fpr the TheLook Fintech to monitor a $3M+ loan portfolio. Engineered an automated ETL pipeline in BigQuery by.. 
+![image](images/loan.png)
+
+Architected a cloud based analytics solution fpr the TheLook Fintech to monitor a $3M+ loan portfolio. Engineered an automated ETL pipeline in BigQuery by by ingesting multi-source data (CSV/Cloud Storage) and parsing complex nested SQL records. Developed a high-fidelity Looker dashboard featuring real-time liquidity alerts, geographic risk heatmaps, and automated refresh schedules to enable data-driven treasury management.
 
 **Tools:** Google BigQuery, Looekr Enterprise, SQL, Google Cloud Storage
+
+🔗 [View Project](https://github.com/clemsonexcel/Fintech-Treasury-Analytics/tree/main) 
+
 
 ## Data Jobs Analysis  
 
@@ -26,11 +31,8 @@ A deep dive into the job market for data professionals! Using **Python and Power
 
 ![image](images/migration.png)
 
-Migrated internal company data from Google Sheets to a hosted PostgreSQL database. Designed a normalized schema, implemented role-access control, and created views to support analysis while protecting core tables. 
+Migrated internal company data from Google Sheets to a hosted PostgreSQL database. Designed a normalized schema, implemented role-access control, and created views to support analysis while protecting core tables. Focused on transfroming long term, messy Google Sheets data into a structured relational databse with proper relationships and data integrity.
 
-Google Sheets Data Migration Project
-
-A real world data migratio project focused on transfroming long term, messy Google Sheets data into a structured relational databse with proper relationships and data integrity.
 
 **Tools:** PostgreSQL (Supabase), SQL, ER modeling
 
