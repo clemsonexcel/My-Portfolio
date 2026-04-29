@@ -9,7 +9,7 @@ Each project includes a brief description, key skills demonstrated, and links to
 
 ## Cloud Data Analytics: End-to-End Fintech Pipeline (GCP)
 
-![image](images/loan.png)
+![image](images/loan.jpg)
 
 Architected a cloud based analytics solution fpr the TheLook Fintech to monitor a $3M+ loan portfolio. Engineered an automated ETL pipeline in BigQuery by by ingesting multi-source data (CSV/Cloud Storage) and parsing complex nested SQL records. Developed a high-fidelity Looker dashboard featuring real-time liquidity alerts, geographic risk heatmaps, and automated refresh schedules to enable data-driven treasury management.
 
