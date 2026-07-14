@@ -90,11 +90,14 @@ Using mall customer data, I performed customer segmentation to identify key shop
 🔗 [View Project](https://github.com/clemsonexcel/Customer-Segmentation-Project)  
 
 
-## Loan Prediction Model
+## Loan Amount Prediction
 
 ![image](images/loan.jpg)
 
-Developed a **machine learning model** to predict loan approval based on historical data. The project involved data cleaning, feature engineering, and model evaluation to assess the loan eligibility of applicants.
+
+Built a regression model to predict the loan amount a lender would sanction for an applicant, based on income, credit history, employment, and property details. The project involved data cleaning, feature engineering, and comparison of over a dozen regression algorithms; including Random Forest, Gradient Boosting, and SVR — with hyperparameter tuning and confidence-interval evaluation to assess model reliability.
+
+**Skills:** Regression Modeling, Feature Engineering, Hyperparameter Tuning (RandomizedSearchCV), Model Evaluation, SHAP/Feature Importance, Scikit-learn
 
 🔗 [View Project](https://github.com/clemsonexcel/Loan-Prediction)  
 
