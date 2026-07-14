@@ -11,9 +11,9 @@ Each project includes a brief description, key skills demonstrated, and links to
 
 ![image](images/Fintech.jpg)
 
-Architected a cloud based analytics solution fpr the TheLook Fintech to monitor a $3M+ loan portfolio. Engineered an automated ETL pipeline in BigQuery by by ingesting multi-source data (CSV/Cloud Storage) and parsing complex nested SQL records. Developed a high-fidelity Looker dashboard featuring real-time liquidity alerts, geographic risk heatmaps, and automated refresh schedules to enable data-driven treasury management.
+Architected a cloud based analytics solution for the TheLook Fintech to monitor a $3M+ loan portfolio. Engineered an automated ETL pipeline in BigQuery by ingesting multi-source data (CSV/Cloud Storage) and parsing complex nested SQL records. Developed a high-fidelity Looker dashboard featuring real-time liquidity alerts, geographic risk heatmaps, and automated refresh schedules to enable data-driven treasury management.
 
-**Tools:** Google BigQuery, Looekr Enterprise, SQL, Google Cloud Storage
+**Tools:** Google BigQuery, Looker Enterprise, SQL, Google Cloud Storage
 
 🔗 [View Project](https://github.com/clemsonexcel/Fintech-Treasury-Analytics/tree/main) 
 
@@ -22,7 +22,7 @@ Architected a cloud based analytics solution fpr the TheLook Fintech to monitor 
 
 ![image](images/db_design.png)
 
-An OLTP focused database modelling and SQL implementation project addressing inventory, order fufillment, and customer data consistency.
+An OLTP focused database modelling and SQL implementation project addressing inventory, order fulfillment, and customer data consistency.
 
 **Tools:** MSSQL, SQL, ER modeling
 
@@ -78,7 +78,7 @@ Developed an interactive **Power BI** dashboard for a fictional bike company, an
 ![image](images/loan.jpg)
 
 
-Built a regression model to predict the loan amount a lender would sanction for an applicant, based on income, credit history, employment, and property details. The project involved data cleaning, feature engineering, and comparison of over a dozen regression algorithms; including Random Forest, Gradient Boosting, and SVR — with hyperparameter tuning and confidence-interval evaluation to assess model reliability.
+Built a regression model to predict the loan amount a lender would sanction for an applicant, based on income, credit history, employment, and property details. The project involved data cleaning, feature engineering, and comparison of over a dozen regression algorithms; including Random Forest, Gradient Boosting, and SVR, with hyperparameter tuning and confidence-interval evaluation to assess model reliability.
 
 **Skills:** Regression Modeling, Feature Engineering, Hyperparameter Tuning (RandomizedSearchCV), Model Evaluation, SHAP/Feature Importance, Scikit-learn
 
