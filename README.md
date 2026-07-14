@@ -18,39 +18,6 @@ Architected a cloud based analytics solution fpr the TheLook Fintech to monitor 
 🔗 [View Project](https://github.com/clemsonexcel/Fintech-Treasury-Analytics/tree/main) 
 
 
-## Data Jobs Analysis  
-
-![image](images/job_market_analysis.png)
-
-A deep dive into the job market for data professionals! Using **Python and Power BI**, I analyzed job postings to uncover trends in demand, salaries, required skills, and industry preferences.  This project provides valuable insights into the evolving data landscape and guidance for aspiring data professionals.
-
-🔗 [View Project](https://github.com/clemsonexcel/Data-Jobs-Analysis) 
-
-
-## Internal Data Migration | Googlesheets -> PostgreSQL
-
-![image](images/migration.png)
-
-Migrated internal company data from Google Sheets to a hosted PostgreSQL database. Designed a normalized schema, implemented role-access control, and created views to support analysis while protecting core tables. Focused on transfroming long term, messy Google Sheets data into a structured relational databse with proper relationships and data integrity.
-
-
-**Tools:** PostgreSQL (Supabase), SQL, ER modeling
-
-🔗 [View Project](https://github.com/clemsonexcel/sheets-to-database-migration)
-
-## Hotel Analytics Report
-
-![image](images/hotel.jpg)
-
-**🏨 Hotel Booking & Customer Insights Dashboard**  
-Understanding customer behavior and operational performance is key to optimizing hotel management. This project started with **SQL**, where multiple datasets were merged, cleaned, and transformed to uncover deeper insights. The **Power BI** report provides a detailed view of reservations, guest preferences, and business performance—helping hotels make data-driven decisions.
-
-**Skills:** SQL, Data Cleaning, Data Transformation, Power BI, Visualization, Business Intelligence
-
-🔗 [View Project](https://github.com/clemsonexcel/Hotel-Reservation-](https://github.com/clemsonexcel/FLIT-Data-Science-Projects/tree/main/Hotel%20Reservation%20Analysis))  
-
-
-
 ## End-to-End Retail Operations Database: Schema Design and SQL Implementation
 
 ![image](images/db_design)
@@ -61,6 +28,40 @@ An OLTP focused database modelling and SQL implementation project addressing inv
 
 🔗 [View Project](https://github.com/clemsonexcel/Retail-Database-Design)  
 
+## Data Jobs Analysis  
+
+![image](images/job_market_analysis.png)
+
+A deep dive into the job market for data professionals! Using **Python and Power BI**, I analyzed job postings to uncover trends in demand, salaries, required skills, and industry preferences.  This project provides valuable insights into the evolving data landscape and guidance for aspiring data professionals.
+
+🔗 [View Project](https://github.com/clemsonexcel/Data-Jobs-Analysis) 
+
+
+## Hotel Analytics Report
+
+![image](images/hotel.jpg)
+
+**🏨 Hotel Booking & Customer Insights Dashboard**  
+Understanding customer behavior and operational performance is key to optimizing hotel management. This project started with **SQL**, where multiple datasets were merged, cleaned, and transformed to uncover deeper insights. The **Power BI** report provides a detailed view of reservations, guest preferences, and business performance—helping hotels make data-driven decisions.
+
+**Skills:** SQL, Data Cleaning, Data Transformation, Power BI, Visualization, Business Intelligence
+
+🔗 [View Project](https://github.com/clemsonexcel/FLIT-Data-Science-Projects/tree/main/Hotel%20Reservation%20Analysis) 
+
+
+
+## Superstore Sales & Profit Dashboard 
+
+![image](images/superstore.jpg)
+
+Explored retail performance using the classic **Superstore** dataset! This interactive dashboard visualizes key metrics like profit, sales by category, and revenue trends over the years. The analysis also examines state-wise contributions to sales, helping identify top-performing regions.
+
+**Skills:** Excel, Data Visualization, Pivot Tables, Dashboards, Data Analysis, Business Intelligence
+
+🔗 [View Project](https://github.com/clemsonexcel/Dashboard-Projects/tree/main/Superstore%20Dashboard)  
+
+
+
 ## 🚴‍♂️ Bike Sales & Profit Dashboard | Power BI & SQL
 
 ![image](images/bike.jpg)
@@ -70,24 +71,6 @@ Developed an interactive **Power BI** dashboard for a fictional bike company, an
 🔗 [View Project](https://github.com/clemsonexcel/Dashboard-Projects/tree/main/Bike%20Share%20Analysis)  
 
 
-## Employee Attrition Analysis
-
-![image](images/hr_attrition.jpg)
-
-Employee turnover can be costly, but what if HR teams could predict and prevent it? This **Power BI** dashboard breaks down attrition data, providing key insights into employee exits. By summarizing trends and patterns, it helps businesses make data-driven decisions to improve retention.  
-
-🔗 [View Project](https://github.com/clemsonexcel/Dashboard-Projects/tree/main/Employee%20Attrition%20Analysis)  
- 
-
-## Customer Segmentation with K-Means Clustering
-
-![image](images/segmentation.jpg)
-
-Using mall customer data, I performed customer segmentation to identify key shopper groups for targeted marketing strategies. I applied the **K-Means clustering** algorithm for univariate, bivariate, and multivariate analysis, uncovering patterns in customer behavior. The analysis provided insights to help businesses tailor their marketing efforts effectively.
-
-**Skills:** K-Means Clustering, Data Preprocessing, Exploratory Data Analysis (EDA), Visualization, Matplotlib, Seaborn
-
-🔗 [View Project](https://github.com/clemsonexcel/Customer-Segmentation-Project)  
 
 
 ## Loan Amount Prediction
@@ -102,56 +85,20 @@ Built a regression model to predict the loan amount a lender would sanction for 
 🔗 [View Project](https://github.com/clemsonexcel/Loan-Prediction)  
 
 
-## Movie Recommendation System
+## Customer Segmentation with K-Means Clustering
 
-![image](images/movie.jpg)
+![image](images/segmentation.jpg)
 
-I Built an interactive **movie recommendation system** using **Python** in Jupyter Notebook. The system combines similarity-based recommendations and collaborative filtering to provide personalized movie suggestions. It suggests films similar to a given title and also considers what users with similar preferences have enjoyed, ensuring more tailored and relevant recommendations.
+Using mall customer data, I performed customer segmentation to identify key shopper groups for targeted marketing strategies. I applied the **K-Means clustering** algorithm for univariate, bivariate, and multivariate analysis, uncovering patterns in customer behavior. The analysis provided insights to help businesses tailor their marketing efforts effectively.
 
-🔗 [View Project](https://github.com/clemsonexcel/Movie-Recommendation-System)  
+**Skills:** K-Means Clustering, Data Preprocessing, Exploratory Data Analysis (EDA), Visualization, Matplotlib, Seaborn
 
-
-
-### HR Absenteeism and Wellness Analysis
-
-![image](images/hr_absent.jpg)
-
-This project uses **SQL** and **Power BI** to analyze employee absenteeism and health data, driving incentive programs and wellness initiatives. The dashboard helps HR track trends, optimize workforce planning, and support data-driven decision-making.
-
-🔗 [View Project](https://github.com/clemsonexcel/Dashboard-Projects/tree/main/Absenteeism%20%26%20Health%20Dashboard)  
-
-
-## Superstore Sales & Profit Dashboard 
-
-![image](images/superstore.jpg)
-
-Explored retail performance using the classic **Superstore** dataset! This interactive dashboard visualizes key metrics like profit, sales by category, and revenue trends over the years. The analysis also examines state-wise contributions to sales, helping identify top-performing regions.
-
-**Skills:** Excel, Data Visualization, Pivot Tables, Dashboards, Data Analysis, Business Intelligence
-
-🔗 [View Project](https://github.com/clemsonexcel/Dashboard-Projects/tree/main/Superstore%20Dashboard)  
-
-
-## Employee Presence Dashboard 
-
-![image](images/presense.jpg)
-
-Understanding employee work patterns is crucial for HR decision-making. This Power BI dashboard analyzes a three-month employee attendance dataset, offering insights into work preferences, presence trends, and attendance patterns. By visualizing work-from-home rates, sick leaves, and office attendance, HR teams can make informed decisions for event planning and workforce management.  
-
-🔗 **[View Project](https://github.com/clemsonexcel/Dashboard-Projects/tree/main/Employee%20Presence%20Dashboard)**  
+🔗 [View Project](https://github.com/clemsonexcel/Customer-Segmentation-Project)  
 
 
 
 
-## 🔍 Additional Projects  
-These projects focus on specific skills such as SQL analysis, data exploration, and visualizations:  
-- **[Employee Data Analysis](link-to-repo)** (SQL, Business Analytics)
-- **[Retail Sales Analysis](link-to-repo)** (SQL, Revenue Insights)  
-- **[IMDb Movie Data Exploration](link-to-repo)** (Python, Pandas, Visualization) 
-- **[Market Basket Analysis for E-Commerce](link-to-repo)** (Python, Visualization, eda) 
-
-
-## 📌 More Projects Coming Soon!  
+## More Projects Coming Soon!  
 I am actively working on new projects, and this portfolio will keep evolving. Stay tuned for more exciting upates! 🚀
 
 
