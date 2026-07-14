@@ -47,7 +47,7 @@ Understanding customer behavior and operational performance is key to optimizing
 
 **Skills:** SQL, Data Cleaning, Data Transformation, Power BI, Visualization, Business Intelligence
 
-🔗 [View Project]([https://github.com/clemsonexcel/Hotel-Reservation-](https://github.com/clemsonexcel/FLIT-Data-Science-Projects/tree/main/Hotel%20Reservation%20Analysis))  
+🔗 [View Project](https://github.com/clemsonexcel/Hotel-Reservation-](https://github.com/clemsonexcel/FLIT-Data-Science-Projects/tree/main/Hotel%20Reservation%20Analysis))  
 
 
 
